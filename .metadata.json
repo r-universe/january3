@@ -2,5 +2,17 @@
   {
     "package": "colorDF",
     "oncran": true
+  },
+  {
+    "package": "riverplot",
+    "oncran": true
+  },
+  {
+    "package": "tagcloud",
+    "oncran": true
+  },
+  {
+    "package": "tmod",
+    "oncran": true
   }
 ]

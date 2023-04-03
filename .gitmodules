@@ -8,11 +8,6 @@
 	url = https://github.com/january3/colordf
 	shallow = true
 	registered = true
-[submodule "pca3d"]
-	path = pca3d
-	url = https://github.com/cran/pca3d
-	shallow = true
-	registered = true
 [submodule "plotwidgets"]
 	path = plotwidgets
 	url = https://github.com/cran/plotwidgets

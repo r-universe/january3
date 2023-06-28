@@ -1,30 +1,19 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "colorDF"]
 	path = colorDF
 	url = https://github.com/january3/colordf
-	shallow = true
-	registered = true
 [submodule "plotwidgets"]
 	path = plotwidgets
 	url = https://github.com/cran/plotwidgets
-	shallow = true
-	registered = true
 [submodule "riverplot"]
 	path = riverplot
 	url = https://github.com/january3/riverplot
-	shallow = true
-	registered = true
 [submodule "tagcloud"]
 	path = tagcloud
 	url = https://github.com/january3/tagcloud
-	shallow = true
-	registered = true
 [submodule "tmod"]
 	path = tmod
 	url = https://github.com/january3/tmod
-	shallow = true
-	registered = true

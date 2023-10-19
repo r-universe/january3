@@ -8,9 +8,6 @@
 [submodule "plotwidgets"]
 	path = plotwidgets
 	url = https://github.com/cran/plotwidgets
-[submodule "riverplot"]
-	path = riverplot
-	url = https://github.com/january3/riverplot
 [submodule "tagcloud"]
 	path = tagcloud
 	url = https://github.com/january3/tagcloud
